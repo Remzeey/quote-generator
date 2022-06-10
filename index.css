@@ -1,0 +1,52 @@
+body{
+    margin: 0 auto;
+    font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(17, 24, 39);
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    width: 600px;
+    font-weight: bold;
+}
+#title{
+    color:   rgb(234, 88, 12);
+}
+#quote{
+    margin-top: 60px;
+    font-size: 1.5rem;
+    padding: 30px;
+}
+#author{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-size: 1rem;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+.light-mode {
+    background-color: white;
+    color: black;
+}
+#mode{
+    width:30px;
+    height: 30px;
+}
+button {
+    cursor: pointer;
+    font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
+    width: 100px;
+    height: 35px;
+    box-shadow: 5px;
+    background-color: rgb(234, 88, 12);
+    border-radius: 5px;
+    border-color: none;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+@media only screen and (min-width: 600px) {
+    body{
+        width: 100%;
+    }
+}
