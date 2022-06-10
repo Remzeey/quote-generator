@@ -3,7 +3,7 @@ body{
     font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(17, 24, 39);
     color: white;
-    font-size: 2rem;
+    font-size: 1rem;
     width: 600px;
     font-weight: bold;
 }
@@ -12,13 +12,13 @@ body{
 }
 #quote{
     margin-top: 60px;
-    font-size: 1.5rem;
+    font-size: 0.75rem;
     padding: 30px;
 }
 #author{
     margin-top: 60px;
     margin-bottom: 60px;
-    font-size: 1rem;
+    font-size: 0.5rem;
     font-weight: 500;
     font-style: oblique;
 }
