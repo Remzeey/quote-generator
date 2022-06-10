@@ -1,8 +1,7 @@
 body{
-    margin: 0 auto;
+    margin: 0;
     font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(17, 24, 39);
-    text-align: center;
     color: white;
     font-size: 2rem;
     width: 600px;
